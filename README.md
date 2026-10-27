@@ -32,7 +32,7 @@ Expected Output:
 • Show boarding pass with passenger, flight, seat, and gate/timestamp.
 • Show updated seat availability after booking, check-in, or cancellation.
 
-## How to Run
+## How to Run 
 1. Open the project in Eclipse IDE.
 2. Open `Main.java`.
 3. Right-click and select **Run As → Java Application**.
